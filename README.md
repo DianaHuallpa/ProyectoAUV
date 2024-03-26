@@ -79,13 +79,14 @@ Thanks to the Universidad Nacional de San Agustin de Arequipa.
 ## Running Package
 
 After you have installed the Python libraries and downloaded the AUV simulator package and placed it on your desktop you can launch it using the following commands:
-
+```
 cd PythonSimulatorAUV
 python main.py
 
 para visualizar las carpetas generadas 
 
 ls
+```
 
 ## References
 * https://python-control.readthedocs.io/en/0.9.4/index.html
