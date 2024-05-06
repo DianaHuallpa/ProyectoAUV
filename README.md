@@ -50,14 +50,14 @@ The required Python libraries are necessary for the simulation, in any case chec
 
 # Structure to folders
 
-    ├── lib                           # File compilated
-    ├── model_control                 # File compilated
-    ├── model_no_lineal               # File compilated
-    ├── output_images_model_control   # File save results
-    ├── output_images_model_no_lineal # File save results
-    ├── controlador_discretizado.py   # Results
-    ├── datos_controller_real.py      # Results
-    ├── main.py                       # Main Code  
+    PyAUVsimulator
+    ├── lib                                         # File compilated
+    ├── lqg_control                                 # File compilated
+    ├── lqg_control_image_outputs                   # File save results
+    ├── non_linear_model                            # File compilated
+    ├── non_linear_model_image_outputs              # File save results
+    ├── real_state_space_and_discretized_control    # File save results
+    ├── main.py  
 
 ## Instrucciones para ejecutar el simulador
 The simulator provides the modes of operation of the nonlinear, linearized model and the overdriven AUV control. To demonstrate the simulator operation, three cases will be considered:
