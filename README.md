@@ -89,9 +89,10 @@ After you have installed the Python libraries and downloaded the AUV simulator p
 ```
 cd PythonSimulatorAUV
 python main.py
+```
+to display the generated folders 
 
-para visualizar las carpetas generadas 
-
+```
 ls
 ```
 
